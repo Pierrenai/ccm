@@ -14,7 +14,7 @@ L'application **CCM** est une interface graphique développée en Python, permet
 
 ## Installation
 
-1. Téléchargez les fichiers CCM.exe et ccm.db dans https://github.com/pbayle/ccm/Software
+1. Téléchargez les fichiers CCM.exe et ccm.db dans [Software](https://github.com/Pierrenai/ccm/tree/main/Software)
 2. Lancer CCM.exe
 
 Si vous souhaitez créer vous-même le fichier `.exe`, vous pouvez utiliser la commande Docker suivante :
